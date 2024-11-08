@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/commons-codec-1.12.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/cssparser-0.9.16.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/fontbox-2.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/ghost4j-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/htmlunit-2.18.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/jai-imageio-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/java-mail-1.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/jaxb-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/jaxb-impl-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/jbig2-imageio-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/jboss-logging-3.1.4.GA.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/jboss-vfs-3.2.14.Final.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/jetty-io-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/jetty-util-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/jOpenDocument-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/jul-to-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/lept4j-1.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/netty-3.5.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/pdfbox-2.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/pdfbox-debugger-2.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/pdfbox-tools-2.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/poi-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/poi-examples-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/poi-excelant-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/poi-ooxml-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/poi-ooxml-schemas-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/poi-scratchpad-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/selenium-api-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/selenium-chrome-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/selenium-edge-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/selenium-firefox-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/selenium-htmlunit-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/selenium-ie-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/selenium-java-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/selenium-leg-rc-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/selenium-remote-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/selenium-safari-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/selenium-support-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/tess4j-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/testng-6.7.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/webbit-0.4.14.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/websocket-api-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/websocket-client-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/websocket-common-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/winium-elements-desktop-0.2.0-1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/winium-webdriver-0.1.0-1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/xmlgraphics-commons-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/selenium-java-3.141.59 jars/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/selenium-java-3.141.59 jars/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/selenium-java-3.141.59 jars/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/selenium-java-3.141.59 jars/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/selenium-java-3.141.59 jars/libs/guava-30.1.1-jre.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/selenium-java-3.141.59 jars/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/selenium-java-3.141.59 jars/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/htmlunit-driver-4.6.0-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/log4j-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse-workspace/SaveMaxCanada/External Jars/miscellaneous jars/slf4j-api-2.0.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
